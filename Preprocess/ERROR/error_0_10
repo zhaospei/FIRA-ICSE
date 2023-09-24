@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "process_data_ast_parallel.py", line 420, in <module>
+    assert all_token == difftokens[m]
+AssertionError
+
+3
